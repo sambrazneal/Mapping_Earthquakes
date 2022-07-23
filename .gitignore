@@ -131,6 +131,7 @@ dmypy.json
 
 #DS.store
 .ds.store
+.DS_Store
 
 # CONFIG
 config.js
