@@ -6,7 +6,7 @@ In this challege, we added tetonic plates' location, major earthquake data, and 
 ![del4](images/del4.png)
 
 ## Deliverable 2
-![del2](images/del2.png)
+![del5](images/del5.png)
 
 
 # Deliverable 3
